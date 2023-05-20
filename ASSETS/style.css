@@ -1,0 +1,123 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    color: #064420;
+
+}
+
+nav {
+
+    
+    background-color: white;
+}
+
+body {
+
+    background-color: #FAF1E6;
+
+}
+
+#contenedor_form {
+
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+#contenedor {
+
+    padding: 0% 5% 5% 5%;
+    margin: 2% 5%;
+    background-color: #FDFAF6;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#contenedor_funciones {
+
+    padding: 5% 0 50px 0px; 
+}
+
+#boto_crear_electrodomestico {
+
+    width: 20%;
+}
+
+#body {
+
+    background-color: #FDFAF6;
+
+}
+
+#titulo {
+
+    text-align: center;
+    margin: 5%;
+}
+
+
+#form2 {
+
+    width: 450px;
+    height: auto;
+    
+    margin: 5%;
+    padding: 5%;
+
+    /* border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    background-color: #FDFAF6;
+}
+
+#form {
+
+    width: 500px;
+    height: auto;
+    
+
+    margin: 1%;
+    padding: 5%;
+
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #FDFAF6;
+
+}
+
+#botones {
+
+    display: flexbox;
+    justify-content: space-between;
+    align-content: space-between;
+    
+}
+
+#botones a {
+
+    width: 100%;
+    margin-top: 10px;
+
+}
+
+#botones button {
+
+    width: 100%;
+    margin-top: 10px;
+
+}
+
+#boton_ingresar {
+
+    width: 100%;
+}
+
+
+
+
+
